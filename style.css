@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(36, 3, 66);
+}
+
+h1{
+    color:white;
+    justify-content: center;
+    text-align: center;
+}
+
+.newArr{
+    margin-left: 5%;
+}
+
+.BubbleSort, .newArr, .Selectionsort, .InsertionSort, .QuickSort, .MergeSort{
+    font-size: 20px;
+    background-color: balck;
+    cursor: pointer;
+    border:3px solid coral;
+}
+
+.arr_size{
+    margin-left: 3%;
+    color: white;
+}
+.speed{
+    margin-left: 3%;
+    color: white;
+}
+.BubbleSort{
+    margin-left: 5%;
+}
+
+.graph
+{
+    width: 65%;
+    margin-left: 15%;
+    padding: 1.5rem;
+    background-color: white;
+    height:500px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.bar{
+    width: 5px;
+    background-color: yellow;
+    border: 2px solid black;
+    
+}
+
+
